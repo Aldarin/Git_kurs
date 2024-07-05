@@ -6,7 +6,7 @@
 
    public void logowanieGmail() {
         System.out.println("Podaj naze użytkownika");
-        System.out.println("Podaj hasło");
+        System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
