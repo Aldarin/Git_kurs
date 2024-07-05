@@ -10,7 +10,7 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanieGmail2() {
+   public void logowanieMicrosoft() {
         System.out.println("Podaj naze użytkownika");
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
