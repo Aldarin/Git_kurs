@@ -1,4 +1,4 @@
-   public void logowanie() {
+   public void logowanieZwykłe() {
         System.out.println("Podaj naze użytkownika");
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
@@ -10,7 +10,7 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanieMicrosoft() {
+   public void logowanieGmail2() {
         System.out.println("Podaj naze użytkownika");
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
