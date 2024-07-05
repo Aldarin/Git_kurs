@@ -6,11 +6,12 @@
 
    public void logowanieGmail1() {
         System.out.println("Podaj naze użytkownika");
+<<<<<<< HEAD
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-   public void logowanieMicrosoft2() {
+   public void logowanieMicrosoft() {
         System.out.println("Podaj naze użytkownika");
         System.out.println("Podaj poprawne hasło");
         System.out.println("Kliknij na przycisk zaloguj");
