@@ -1,5 +1,3 @@
 Logowanie do aplikacji:
 - użytkownik to adres email w poprawnym formacie (xyz)
 - hasło musi spełniać normy bezpieczeństwa i wygasa co 30 dni
-
-Do usunięcia 
